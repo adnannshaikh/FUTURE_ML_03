@@ -1,0 +1,35 @@
+{
+  "id": "d5ed7eda-bdb0-40a9-be7d-81d50e290c88",
+  "name": "projects/support-bot/agent/intents/d5ed7eda-bdb0-40a9-be7d-81d50e290c88",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can track your order in the \u0027My Orders\u0027 section of your account."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

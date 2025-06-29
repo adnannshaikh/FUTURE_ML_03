@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6c5c3591-403a-4c24-8be4-1e1d35a7c3dc",
+    "data": [
+      {
+        "text": "When will I get my refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d53401-c9cb-4ee0-8e5d-46f9dd5dffa4",
+    "data": [
+      {
+        "text": "Where\u0027s my money?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6a200d5-ee0f-49e4-9e1d-1a033be033be",
+    "data": [
+      {
+        "text": "Refund status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d500f94-1803-420f-a1d9-8f914cd5c49b",
+    "data": [
+      {
+        "text": "How long for refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f581cb8d-fe61-4021-8307-a0f694f96379",
+    "data": [
+      {
+        "text": "I want my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

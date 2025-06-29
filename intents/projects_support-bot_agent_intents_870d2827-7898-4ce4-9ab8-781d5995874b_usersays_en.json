@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c91049d9-12ad-4a50-9862-595f3685ab2b",
+    "data": [
+      {
+        "text": "My account was suspended",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cf9a6c2-3462-4028-be87-bc709a30eace",
+    "data": [
+      {
+        "text": "Why is my account blocked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a11eb75-7d92-462f-b716-ad02b3e7d5d7",
+    "data": [
+      {
+        "text": "I can\u0027t access my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "426ebab6-408b-45a0-8c67-fee7b5b22e1d",
+    "data": [
+      {
+        "text": "Account login issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bada9c4-b1dd-4bac-b5cf-fd452361035b",
+    "data": [
+      {
+        "text": "Account disabled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

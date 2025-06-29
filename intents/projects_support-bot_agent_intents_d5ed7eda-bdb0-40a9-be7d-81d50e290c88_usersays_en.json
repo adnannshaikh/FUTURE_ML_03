@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1f9eafc2-7e58-49ef-99a5-1032e74899b7",
+    "data": [
+      {
+        "text": "Where is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b7dfa94-c898-45c2-87fa-e61f3c9ae978",
+    "data": [
+      {
+        "text": "Track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec2847c0-345c-4edf-8d53-85821a6bd966",
+    "data": [
+      {
+        "text": "Order status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "407c35dd-2cc5-4819-b2d7-da4dd2e8d80a",
+    "data": [
+      {
+        "text": "Has my package shipped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "742a7922-fcf9-47bd-b6d3-504b0415909f",
+    "data": [
+      {
+        "text": "I want to check my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

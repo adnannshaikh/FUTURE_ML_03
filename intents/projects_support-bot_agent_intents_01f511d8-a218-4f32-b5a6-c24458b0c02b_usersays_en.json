@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bd7a5a9f-d84b-4471-a0ea-443d415f1fea",
+    "data": [
+      {
+        "text": "Does this work on Android?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdbf03e0-f8e8-476f-8a89-538c04bdaf16",
+    "data": [
+      {
+        "text": "Can I use this on mobile?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07642ac1-32fa-4c5e-b352-3f35dbe7ee34",
+    "data": [
+      {
+        "text": "Is there an Android version?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f9f06a6-abd2-4f7e-9dcd-e4342d2a8a2c",
+    "data": [
+      {
+        "text": "Available on Android?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d62d6b73-230a-4b86-a1c4-8ac4cec4037f",
+    "data": [
+      {
+        "text": "Mobile support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
